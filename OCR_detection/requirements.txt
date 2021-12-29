@@ -1,0 +1,8 @@
+pytesseract
+Image
+pre-commit
+pytest
+tox
+opencv-python
+tesseract
+pillow
